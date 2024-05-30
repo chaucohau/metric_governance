@@ -1,0 +1,19 @@
+{"source_id":"PBI-01","source(name)":"DN-01 B\u00e1o c\u00e1o d\u01b0 n\u1ee3 T1","metric_id":"M01","type ~ label":"PowerBI ","url":"https:\/\/app.powerbi.com\/teams\/0f488f-420f\/reports\/e3db62d5-e686-4cb1-f3a28d3ed656\/ReportSectionadb0d90ec69b?clientSideAuth=0&experience=power-bi"}
+{"source_id":"PBI-02","source(name)":"DN-02 B\u00e1o c\u00e1o d\u01b0 n\u1ee3 T2","metric_id":"M02","type ~ label":"PowerBI ","url":"https:\/\/app.powerbi.com\/teams\/0f48-3c90-420f\/reports\/e3db62d5-e686-4cb1-f3a28d3ed656\/ReportSectionadb0d90ec69b?clientSideAuth=0&experience=power-bi"}
+{"source_id":"PBI-03","source(name)":"DN-001 B\u00e1o c\u00e1o d\u01b0 n\u1ee3 Q1","metric_id":"M03","type ~ label":"PowerBI ","url":"https:\/\/app.powerbi.com\/teams\/0f488fc90-420f\/reports\/e3db62d5-e686-4cb1-f3a28d3ed656\/ReportSectionadb0d90ec69b?clientSideAuth=0&experience=power-bi"}
+{"source_id":"PBI-04","source(name)":"TQ-23 B\u00e1o c\u00e1o t\u1ed5ng quan 2023","metric_id":"M04","type ~ label":"PowerBI ","url":"https:\/\/app.powerbi.com\/teams\/0f488f0-420f\/reports\/e3db62d5-e686-4cb1-f3a28d3ed656\/ReportSectionadb0d90ec69b?clientSideAuth=0&experience=power-bi"}
+{"source_id":"PBI-05","source(name)":"TQ-24 B\u00e1o c\u00e1o t\u1ed5ng quan 2024","metric_id":"M05","type ~ label":"PowerBI ","url":"https:\/\/app.powerbi.com\/teams\/0f488f7b-3c90-420f\/reports\/-4cb1-f3a28d3ed656\/ReportSectionadb0d90ec69b?clientSideAuth=0&experience=power-bi"}
+{"source_id":"ETL-01","source(name)":"pipeline-01-Order","metric_id":"M03","type ~ label":"ELTpipeline","url":null}
+{"source_id":"ETL-01","source(name)":"pipeline-01-Order","metric_id":"M01","type ~ label":"ELTpipeline","url":null}
+{"source_id":"ETL-01","source(name)":"pipeline-01-Order","metric_id":"M02","type ~ label":"ELTpipeline","url":null}
+{"source_id":"ETL-02","source(name)":"pipeline-02-Geo","metric_id":"M01","type ~ label":"ELTpipeline","url":null}
+{"source_id":"ETL-03","source(name)":"pipeline-03-Activity","metric_id":"M06","type ~ label":"ELTpipeline","url":null}
+{"source_id":"Ex-01","source(name)":"Ex-Client Churn Analysis Dashboard","metric_id":"M03","type ~ label":"Excel","url":null}
+{"source_id":"Ex-02","source(name)":"Ex-User Activity ","metric_id":"M04","type ~ label":"Excel","url":null}
+{"source_id":"Ex-02","source(name)":"Ex-User Activity ","metric_id":"M05","type ~ label":"Excel","url":null}
+{"source_id":"Ex-02","source(name)":"Ex-User Activity ","metric_id":"M03","type ~ label":"Excel","url":null}
+{"source_id":"Ex-03","source(name)":"Portfolio Turnover Dashboard","metric_id":"M03","type ~ label":"Excel","url":null}
+{"source_id":"Ex-03","source(name)":"Portfolio Turnover Dashboard","metric_id":"M02","type ~ label":"Excel","url":null}
+{"source_id":"SQL-01","source(name)":"S1-Client Churn Rate","metric_id":"M02","type ~ label":"Code","url":null}
+{"source_id":"SQL-01","source(name)":"S1-Client Churn Rate","metric_id":"M03","type ~ label":"Code","url":null}
+{"source_id":"SQL-01","source(name)":"S1-Client Churn Rate","metric_id":"M06","type ~ label":"Code","url":null}
