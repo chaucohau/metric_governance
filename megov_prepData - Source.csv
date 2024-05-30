@@ -1,0 +1,20 @@
+source_id,source(name),metric_id,type ~ label,url
+PBI-01,DN-01 Báo cáo dư nợ T1,M01,PowerBI ,https://app.powerbi.com/teams/0f488f-420f/reports/e3db62d5-e686-4cb1-f3a28d3ed656/ReportSectionadb0d90ec69b?clientSideAuth=0&experience=power-bi
+PBI-02,DN-02 Báo cáo dư nợ T2,M02,PowerBI ,https://app.powerbi.com/teams/0f48-3c90-420f/reports/e3db62d5-e686-4cb1-f3a28d3ed656/ReportSectionadb0d90ec69b?clientSideAuth=0&experience=power-bi
+PBI-03,DN-001 Báo cáo dư nợ Q1,M03,PowerBI ,https://app.powerbi.com/teams/0f488fc90-420f/reports/e3db62d5-e686-4cb1-f3a28d3ed656/ReportSectionadb0d90ec69b?clientSideAuth=0&experience=power-bi
+PBI-04,TQ-23 Báo cáo tổng quan 2023,M04,PowerBI ,https://app.powerbi.com/teams/0f488f0-420f/reports/e3db62d5-e686-4cb1-f3a28d3ed656/ReportSectionadb0d90ec69b?clientSideAuth=0&experience=power-bi
+PBI-05,TQ-24 Báo cáo tổng quan 2024,M05,PowerBI ,https://app.powerbi.com/teams/0f488f7b-3c90-420f/reports/-4cb1-f3a28d3ed656/ReportSectionadb0d90ec69b?clientSideAuth=0&experience=power-bi
+ETL-01,pipeline-01-Order,M03,ELTpipeline,N/A
+ETL-01,pipeline-01-Order,M01,ELTpipeline,N/A
+ETL-01,pipeline-01-Order,M02,ELTpipeline,N/A
+ETL-02,pipeline-02-Geo,M01,ELTpipeline,N/A
+ETL-03,pipeline-03-Activity,M06,ELTpipeline,N/A
+Ex-01,Ex-Client Churn Analysis Dashboard,M03,Excel,N/A
+Ex-02,Ex-User Activity ,M04,Excel,N/A
+Ex-02,Ex-User Activity ,M05,Excel,N/A
+Ex-02,Ex-User Activity ,M03,Excel,N/A
+Ex-03,Portfolio Turnover Dashboard,M03,Excel,N/A
+Ex-03,Portfolio Turnover Dashboard,M02,Excel,N/A
+SQL-01,S1-Client Churn Rate,M02,Code,N/A
+SQL-01,S1-Client Churn Rate,M03,Code,N/A
+SQL-01,S1-Client Churn Rate,M06,Code,N/A

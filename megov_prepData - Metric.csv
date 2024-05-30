@@ -1,0 +1,7 @@
+da_id,metric_id,metric,definition,cal_method,code_snippet,date
+DA-1,M01,Net Asset Value (Tài sản ròng của KH),Tài sản ròng của KH,Tiền + Giá trị danh mục chứng khoán - Nợ,net_asset_value = cash + securities_value - debt,21/12/23
+DA-1,M02,Portfolio Value (giá trị danh mục),Giá trị danh mục,Giá trị danh mục chứng khoán của KH.,portfolio_value = securities_value,23/12/23
+DA-2,M03,Loan / Debt (Dư nợ của khách hàng),Dư nợ của khách hàng,Các công ty chứng khoán có các sản phẩm cho vay khác nhau mang lại doanh thu,N/A,27/02/24
+DA-1,M04,K rate (Tỷ lệ K),Tỷ lệ K,Đánh giá rủi ro tài sản KH. K = (Giá trị danh mục + Số dư tiền mặt - Nợ) / Giá trị danh mục,k_rate = (portfolio_value + cash_balance - debt) / portfolio_value,28/02/24
+DA-4,M05,Trade Value (Giá trị giao dịch),Giá trị giao dịch,"Hơi giống dòng 14 nhưng là tổng giá trị, dòng 14 chỉ là doanh thu mang lại = GTGD * tỷ lệ phí (VD: thu phí = 0.08%)",N/A,29/02/24
+DA-1,M06,KH active giao dịch,Có giao dịch trong vòng 1 năm gần nhất,Có giao dịch trong vòng 1 năm gần nhất,N/A,01/03/24
